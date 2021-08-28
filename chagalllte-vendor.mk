@@ -26,7 +26,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/chagalllte/proprietary/vendor/lib/hw/gps.universal5420.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gps.universal5420.so \
     vendor/samsung/chagalllte/proprietary/vendor/lib/sensors.universal5420.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.universal5420.so \
     vendor/samsung/chagalllte/proprietary/vendor/lib/libfloatingfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfloatingfeature.so \
-    vendor/samsung/chagalllte/proprietary/vendor/lib/libprotobuf-cpp-haxx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-haxx.so \
+    vendor/samsung/chagalllte/proprietary/vendor/lib/libprotobuf-cpp-full-v23.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-full-v23.so \
     vendor/samsung/chagalllte/proprietary/vendor/lib/libsec-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsec-ril.so \
     vendor/samsung/chagalllte/proprietary/vendor/lib/libwrappergps.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwrappergps.so \
     vendor/samsung/chagalllte/proprietary/vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt \
